@@ -28,8 +28,4 @@ help:
 	@echo "  make hello-lua        - compile lua script example"
 	@echo "  make compile-lua      - compile lua"
  
-	
-# Use:
-#
-# make
-# make FILE=test.c
+
